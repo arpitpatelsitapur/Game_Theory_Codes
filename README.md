@@ -7,7 +7,6 @@ This repository contains implementations of various games and simulations based 
 - [Introduction](#introduction)
 - [Games Implemented](#games-implemented)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
 
 ## Introduction
 

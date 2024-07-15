@@ -27,7 +27,7 @@ Currently, the repository includes implementations of the following games:
 To run any of the games in this repository, ensure you have Python installed on your system. Clone the repository and navigate to the respective game's directory. Use Python to execute the main script.
 
 ```bash
-git clone [https://github.com/your-username/Game_Theory_Codes.git](https://github.com/arpitpatelsitapur/Game_Theory_Codes.git)
+git clone [https://github.com/your-username/Game_Theory_Codes.git](#https://github.com/arpitpatelsitapur/Game_Theory_Codes.git)
 cd Game_Theory_Codes/game_name
 python game_name.py
 ```
